@@ -1,4 +1,4 @@
-# Survey Form
+# Rothko Painting
 
 This is a project completed as part of a FreeCodeCamp Responsive Web Design course.<br>
 Requirements (PC): Chromium based browser<br>
